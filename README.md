@@ -104,7 +104,7 @@ He actively seeks to grow both technically and professionally by building person
 
   <section style="text-align: center; margin-top: 40px;">
     <h2 style="color: #00BFFF; font-size: 2rem; font-weight: bold; margin-bottom: 20px; text-shadow: 0 0 5px #00BFFF;">📫 Connect with me</h2>
-    <p style="display: flex; justify-content: center; align-items: center;>
+    <p>
       <a href="mailto:juandavidfernandez553@gmail.com" target="_blank" rel="noopener" style="margin: 0 15px;">
         <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email" />
       </a>
