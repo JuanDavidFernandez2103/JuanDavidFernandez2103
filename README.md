@@ -17,7 +17,7 @@
 
   <p style="text-align: center; font-size: 1.15rem; margin-bottom: 20px;">
     <a 
-      href="mailto:juan.fernandez03@globant.com" 
+      href="mailto:juandavidfernandez553@gmail.com" 
       style="color:#00BFFF; text-decoration: none; font-weight: 600;" 
       title="Enviar correo">
       📧 juandavidfernandez553@gmail.com
